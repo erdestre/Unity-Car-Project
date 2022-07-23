@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb8075e6e47ac894fb522a7220a498f6, type: 3}
+  m_Name: AnotherCar
+  m_EditorClassIdentifier: 
+  items:
+  - itemTypeId: 2
+    itemName: 
+    itemCost: 200
+    isAlreadyPurchased: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    test2: 0
+    test3: 0
+    test4: 0
+    maxspeed: 0
+    acceleration: 0
+    drift: 0
+    upgradetest: 0
+  - itemTypeId: 3
+    itemName: 
+    itemCost: 5000
+    isAlreadyPurchased: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    test2: 0
+    test3: 0
+    test4: 0
+    maxspeed: 0
+    acceleration: 0
+    drift: 0
+    upgradetest: 0
+  Name: CarOne
+  Id: 1
+  carObject: {fileID: 1023815589319650135, guid: c1d922c3130a7f84e9730fd9556623d6, type: 3}
+  Score: 50000
+  isAlreadyPurchased: 0
+  currentColor: {r: 0, g: 0, b: 0, a: 0}
+  currentTest2: 0
+  currentTest3: 0
+  currentTest4: 0
+  currentMaxSpeedLevel: 0
+  currentDriftLevel: 0
+  currentAccelerationLevel: 0
+  currentTest4uLevel: 0
